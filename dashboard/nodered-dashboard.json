@@ -374,7 +374,7 @@
         "type": "mqtt in",
         "z": "eb3baa2c444a5ca0",
         "name": "emergency-level",
-        "topic": "/measurments/hospital-1/room-1/emergency-level",
+        "topic": "/measurements/hospital-1/room-1/emergency-level",
         "qos": "1",
         "datatype": "utf8",
         "broker": "604f5bf06b83f647",
